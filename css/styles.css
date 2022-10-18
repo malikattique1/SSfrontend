@@ -1,0 +1,20 @@
+
+body{
+    background-color:#343A40;
+}
+
+tbody>tr>td:nth-child(3):hover{
+    color:#4444ee;
+    text-decoration:underline;
+}
+
+tbody>tr>td:nth-child(4):hover{
+    color:#4444ee;
+    text-decoration:underline;
+}
+
+tbody>tr>td:nth-child(5):hover{
+    color:#4444ee;
+    text-decoration:underline;
+}
+
